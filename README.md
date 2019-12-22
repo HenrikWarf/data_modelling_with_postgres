@@ -8,7 +8,7 @@ They'd like a data engineer to create a Postgres database with tables designed t
 
 ## Running the ETL 
 > python3 create_tables.py
-<br>
+
 > python3 etl.py
 
 ## What does the python ETL applications(scripts) do?
