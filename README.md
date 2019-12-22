@@ -16,7 +16,7 @@ The three main files are create_tables.py, sql_queries.py and etl.py.
 * etl.py: Read JSON logs and JSON metadata and load the data into generated tables.
 
 ## Database Schema
-
+<img src="DatabaseModel.png">
 
 * songplays: Records in log data associated with song plays
 * users: Users in the app
